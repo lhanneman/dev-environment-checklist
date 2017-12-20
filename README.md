@@ -29,6 +29,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 * Notepad++
 * 1Password
 * Dropbox
+* Lightshot
 
 # misc settings
 
