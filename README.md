@@ -32,4 +32,4 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 
 # misc settings
 
-[git config (windows)](https://github.com/lhanneman/dev-environment-checklist/blob/master/git.config)
+[git config (windows)](https://github.com/lhanneman/dev-environment-checklist/blob/master/git.config) (to merge conflicts w/ VS)
