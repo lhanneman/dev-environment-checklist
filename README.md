@@ -5,6 +5,8 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 # mac
 
 * VS Code
+  * Material Palenight Color Theme
+  * Material Icon Theme
 * Postman
 * Slack
 * OneNote
