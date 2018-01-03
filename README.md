@@ -34,6 +34,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 * 1Password
 * Dropbox
 * Lightshot
+* Remote Desktop Connection Manager
 
 # misc settings
 
