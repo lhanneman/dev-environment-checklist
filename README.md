@@ -22,7 +22,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 * Visual Studio
   * Extensions / Tools
     * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017)
-      * [ Custom Document Well](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CustomDocumentWell)
+      * [Custom Document Well](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CustomDocumentWell)
     * [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
 * SQL Server Managment Studio
 * Fiddler
@@ -35,6 +35,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 * Dropbox
 * Lightshot
 * Remote Desktop Connection Manager
+* [Share-X](https://getsharex.com/)
 
 # misc settings
 
