@@ -16,6 +16,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 * 1Password
 * Dropbox
 * Pocket
+* Magnet
 
 # windows
 
