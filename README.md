@@ -20,6 +20,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 
 # windows
 
+* [Chocolatey](https://chocolatey.org/)
 * Visual Studio
   * Extensions / Tools
     * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017)
