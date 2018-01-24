@@ -4,10 +4,12 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 
 # mac
 
+* Homebrew
 * VS Code
   * Material Palenight Color Theme
   * Material Icon Theme
 * Git
+* Git Desktop Client
 * Node.js
 * Postman
 * Slack
