@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "window.zoomLevel": 0,
+    "workbench.editor.showTabs":false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code"
+}
