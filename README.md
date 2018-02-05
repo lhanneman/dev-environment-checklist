@@ -5,7 +5,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 # mac
 
 * Homebrew
-* VS Code
+* VS Code - [user settings](https://github.com/lhanneman/dev-environment-checklist/blob/master/vscode.settings.json)
   * Material Palenight Color Theme
   * Material Icon Theme
 * Git
