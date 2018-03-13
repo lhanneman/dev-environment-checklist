@@ -19,6 +19,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
 * Dropbox
 * Pocket
 * Magnet
+* VLC Player
 
 # windows
 
