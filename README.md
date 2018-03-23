@@ -29,6 +29,7 @@ my personal list of tools/apps/configuration when reformatting or setting up a n
     * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017)
       * [Custom Document Well](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CustomDocumentWell)
     * [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
+    * [CodeMaid] (https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 * SQL Server Managment Studio
 * Fiddler
 * OneNote
